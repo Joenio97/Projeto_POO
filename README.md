@@ -1,6 +1,6 @@
 # Projeto_POO
 
-## Catalogo de Josgos Digitais
+## Catalogo de Jogos Digitais
 
 ### Integrantes de equipe e distribuição de tarefas
 
