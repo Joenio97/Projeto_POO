@@ -4,9 +4,12 @@
 
 ### Integrantes de equipe e distribuição de tarefas
 
-Joenio Borges de Araújo: Modelagem OO, classes Jogo e Status
+Joenio Borges de Araújo: Modelagem OO, classes Jogo e Status.
+
 Maria Fernanda Sousa Silva: Regras de negócio, estados e classe coleção.
-Matheus Moraes Bernardo: Persistência de dados e classe relatorios
+
+Matheus Moraes Bernardo: Persistência de dados e classe relatorios.
+
 Kauê Oliveira Fernandes: Interface (CLI), classe progresso, testes e documentação.
 
 Principais classes do projeto
